@@ -1,5 +1,4 @@
-from inspect import formatannotation
-from tokenize import Name
+
 import PySimpleGUI as sg 
 from pytube import YouTube, Playlist
 
